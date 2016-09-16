@@ -21,7 +21,9 @@
 				<input type="password" id="password" class="loginForm form-control"/> </br>
 				<input type="submit" class="loginForm btn btn-primary btn-lg btn-block " value="SUBMIT" /> </br></br>
 				<label class="loginForm">Don't have account? </label> <a href="signup.php" class="loginForm">Signup!</a> </br>
+				<div>
 				<a class="loginForm">Forget password?</a>
+				</div>
 			</form>
 		</div>
 		<div class="col-md-4"></div>
